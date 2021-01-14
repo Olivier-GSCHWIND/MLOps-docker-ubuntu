@@ -1,2 +1,2 @@
-# install-docker-unbuntu
+# install-docker-ubuntu
 How to install Docker in an Ubuntu EC2 instance.
