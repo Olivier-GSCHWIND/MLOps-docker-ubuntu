@@ -1,2 +1,2 @@
-# install-docker-ubuntu
-How to install Docker in an Ubuntu EC2 instance.
+# MLOps-docker-ubuntu
+A small MLOps example 
